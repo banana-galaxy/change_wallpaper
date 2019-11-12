@@ -11,5 +11,3 @@ ubuntu:
 The 32 bit hasn't been tested
 
 Make sure there is nothing except the wallpapers and the program file inside the folder
-***
-The code is specifically made for Windows
