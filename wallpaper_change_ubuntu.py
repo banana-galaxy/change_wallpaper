@@ -1,7 +1,7 @@
 import os, random
 
 path = os.path.dirname(os.path.realpath(__file__))
-image_types = ['.jpg', '.jpeg', '.png', '.gif', '.jfif']
+image_types = ['.jpg', '.jpeg', '.png', '.gif']
 wallpapers = []
 wallpaper = None
 
