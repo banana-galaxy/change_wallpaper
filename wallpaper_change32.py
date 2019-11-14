@@ -1,6 +1,6 @@
 import ctypes, os, random
 SPI_SETDESKWALLPAPER = 20
-image_types = ['.jpg', '.jpeg', '.png', '.gif', '.jfif']
+image_types = ['.pg', '.jpeg', '.bmp', '.dib', '.png', '.jfif', '.jpe', '.gif', '.tif', '.tiff', '.wdp']
 wallpapers = []
 wallpaper = None
 path = os.path.dirname(os.path.realpath(__file__))
