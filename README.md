@@ -10,4 +10,4 @@ ubuntu:
 ### note
 The 32 bit hasn't been tested
 
-Make sure there is nothing except the wallpapers and the program file inside the folder
+Wallpaper types accepted on Ubuntu: jpg, png
